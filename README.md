@@ -65,13 +65,7 @@
 
 ---
 
-## 🐍 GitHub Contribution Snake
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/najat-ttt/najat-ttt/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
-</p>
-
----
 
 ## 🔗 Connect with Me
 
