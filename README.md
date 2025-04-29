@@ -54,18 +54,6 @@
 
 ---
 
-## 📰 Latest Projects
-
-<!-- LATEST REPOS - auto updated -->
-<p align="center">
-  <a href="https://github.com/najat-ttt?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=najat-ttt&repo=student-attendance-system&theme=algolia&hide_border=true&bg_color=000000" />
-  </a>
-</p>
-
----
-
-
 
 ## 🔗 Connect with Me
 
