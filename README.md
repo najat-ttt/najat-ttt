@@ -44,9 +44,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=najat-ttt&show_icons=true&theme=algolia&hide_border=true&icon_color=00FFD1&title_color=00FFD1&text_color=FFFFFF&bg_color=000000" alt="GitHub Stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=najat-ttt&theme=algolia&hide_border=true&background=000000" alt="GitHub Streak" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=najat-ttt&layout=compact&theme=algolia&hide_border=true&bg_color=000000" alt="Top Languages" />
