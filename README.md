@@ -13,7 +13,6 @@
 
 ## About Me
 
-- Currently working on **Student Attendance Management System (Flutter + Firebase)**
 - Learning **Mobile App Architecture (BLoC, Clean Architecture)** & **Cloud Functions**
 - Passionate about **Secure Mobile App Development** and **Ethical Hacking**
 - Open to collaborating on **Open-Source Projects** and **Security Tools**
