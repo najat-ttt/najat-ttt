@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋, I'm Sheikh Siam Najat</h1>
+<h1 align="center">Hi, I'm Sheikh Siam Najat</h1>
 <h3 align="center">Software Developer | CSE Student @ RUET | Mobile Dev & Cybersecurity Enthusiast | Open-Source Advocate</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=1000&lines=Software+Developer+%7C+CSE+Student+at+RUET+%7C+Cybersecurity+Enthusiast;Building+Secure%2C+Scalable+Apps...+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=1000&lines=Software+Developer+%7C+CSE+Student+at+RUET+%7C+Cybersecurity+Enthusiast;Building+Secure%2C+Scalable+Apps...+" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -11,18 +11,18 @@
 
 ---
 
-## 🧠 About Me
+## About Me
 
-- 🚀 Currently working on **Student Attendance Management System (Flutter + Firebase)**
-- 📚 Learning **Mobile App Architecture (BLoC, Clean Architecture)** & **Cloud Functions**
-- 🛡️ Passionate about **Secure Mobile App Development** and **Ethical Hacking**
-- 🤝 Open to collaborating on **Open-Source Projects** and **Security Tools**
-- 📩 Contact me: **siamnajat02@gmail.com**
-- 💬 Motto: _**"Code Hard. Think Deep. Stay Unstoppable."**_
+- Currently working on **Student Attendance Management System (Flutter + Firebase)**
+- Learning **Mobile App Architecture (BLoC, Clean Architecture)** & **Cloud Functions**
+- Passionate about **Secure Mobile App Development** and **Ethical Hacking**
+- Open to collaborating on **Open-Source Projects** and **Security Tools**
+- Contact me: **siamnajat02@gmail.com**
+- Motto: _**"Code Hard. Think Deep. Stay Unstoppable."**_
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 <p align="center">
   <a href="https://flutter.dev" target="_blank"><img src="https://img.shields.io/badge/Flutter-000000?style=for-the-badge&logo=flutter&logoColor=00FFD1" alt="Flutter"/></a>
@@ -34,7 +34,7 @@
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=najat-ttt&theme=algolia&margin-w=15&margin-h=15&no-frame=true" alt="Trophies" />
@@ -52,7 +52,7 @@
 ---
 
 
-## 🔗 Connect with Me
+## Connect with Me
 
 <p align="center">
   <a href="https://linkedin.com/in/sheikhsiamnajat" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=0A66C2" alt="LinkedIn"/></a>
@@ -62,4 +62,4 @@
 
 ---
 
-<h3 align="center">🔥 Keep Pushing Boundaries 🔥</h3>
+<h3 align="center">Keep Pushing Boundaries</h3>
